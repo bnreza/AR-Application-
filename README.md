@@ -3,8 +3,5 @@
 
 This short video shows the overall project when it is run on an Android device. :)
 
-Uploading Video.mp4…
-
-
-
+https://github.com/bnreza/AR-Application-/assets/135434314/5e1448ad-f8b2-4586-8715-f2f61500a7f1
 
